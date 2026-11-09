@@ -2,3 +2,4 @@
 
 Curated best practices for engineering.
 
+- Entry 1: Best practice entry on collaboration and software quality #1
