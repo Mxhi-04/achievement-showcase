@@ -312,3 +312,6 @@ Dual commit test 2
 
 ### Guideline #122: Pair Collaboration & Architecture
 - Principle 122: Code quality, automated verification, and asynchronous collaboration.
+
+### Guideline #123: Pair Collaboration & Architecture
+- Principle 123: Code quality, automated verification, and asynchronous collaboration.
