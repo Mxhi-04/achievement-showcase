@@ -9,3 +9,6 @@ Dual commit test 2
 
 ### Guideline #21: Pair Collaboration & Architecture
 - Principle 21: Code quality, automated verification, and asynchronous collaboration.
+
+### Guideline #22: Pair Collaboration & Architecture
+- Principle 22: Code quality, automated verification, and asynchronous collaboration.
