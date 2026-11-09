@@ -54,3 +54,6 @@ Dual commit test 2
 
 ### Guideline #36: Pair Collaboration & Architecture
 - Principle 36: Code quality, automated verification, and asynchronous collaboration.
+
+### Guideline #37: Pair Collaboration & Architecture
+- Principle 37: Code quality, automated verification, and asynchronous collaboration.
