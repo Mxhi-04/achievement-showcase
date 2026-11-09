@@ -21,3 +21,6 @@ Dual commit test 2
 
 ### Guideline #25: Pair Collaboration & Architecture
 - Principle 25: Code quality, automated verification, and asynchronous collaboration.
+
+### Guideline #26: Pair Collaboration & Architecture
+- Principle 26: Code quality, automated verification, and asynchronous collaboration.
