@@ -297,3 +297,6 @@ Dual commit test 2
 
 ### Guideline #117: Pair Collaboration & Architecture
 - Principle 117: Code quality, automated verification, and asynchronous collaboration.
+
+### Guideline #118: Pair Collaboration & Architecture
+- Principle 118: Code quality, automated verification, and asynchronous collaboration.
